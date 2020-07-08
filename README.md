@@ -16,3 +16,6 @@ We have two files each file contains objects. These objects contains data about 
 For simplicity I have taken two files, each line in these files contains a file name and size sepearted by space.
 Then created objects for each file and stored in two lists one for source and other for destination.
 In this script a user just have to give two file names written in above mentioned format.
+
+<h2>Result - </h2>
+It returns all those files which are either missing or have size less than source files
